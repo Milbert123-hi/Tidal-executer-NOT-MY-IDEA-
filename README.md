@@ -1,4 +1,4 @@
---this is Tidal Executer 
+
 @echo off
 title Tidal for Roblox
 color 0A
